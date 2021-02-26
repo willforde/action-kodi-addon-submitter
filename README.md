@@ -27,6 +27,10 @@ This is equivalent to the **branch** name where your addon lives in the official
 
 **Optional** Boolean indicating if the addon is stored in its own directory within the git repo.
 
+### `push-only`
+
+**Optional** Boolean indicating if you just want to create an addon branch in your repo fork and not create a pull request.
+
 ## Secrets
 
 ### `GH_TOKEN`
